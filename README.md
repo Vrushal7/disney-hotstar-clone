@@ -1,1 +1,1 @@
-# disney-hotstar-clone
+Made a Disney+Hotstar clone using HTML,CSS,Javascript and React.

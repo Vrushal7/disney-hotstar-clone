@@ -3,7 +3,7 @@ import { createGlobalStyle } from "styled-components"
 const GlobalStyles = createGlobalStyle`
 *{
    box-sizing : border-box;
-   scroll-padding : 60px;
+   scroll-padding :60px;
    font-family :"Inter" , sans serif;
 
 }
